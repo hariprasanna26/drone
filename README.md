@@ -25,7 +25,7 @@ Ensure you have the following prerequisites installed:
 - AirSim or Gazebo
 
 Clone the repository:
-git clone https://github.com/hariprasanna/Development-of-autonomous-aerial-surveillance-and-inspection-drones.git
+git clone https://github.com/hariprasanna26/Development-of-autonomous-aerial-surveillance-and-inspection-drones.git
 
 cd Development-of-autonomous-aerial-surveillance-and-inspection-drones
 pip install -r requirements.txt
