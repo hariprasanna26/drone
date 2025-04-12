@@ -1,7 +1,7 @@
-# Advanced Autonomous Drone Navigation System (AADNS) by Hari Prasanna
+# Development of autonomous aerial surveillance and inspection drones by Hari Prasanna
 
 ## Overview
-The Advanced Autonomous Drone Navigation System (AADNS) is a sophisticated initiative leveraging cutting-edge technologies in AI, machine learning, and simulation to develop highly advanced autonomous drone capabilities. Designed for complex environmental interactions and adaptive flight path management, it aims to push the boundaries of what autonomous drones can achieve in realistic and simulated settings.
+The Development of autonomous aerial surveillance and inspection drones is a sophisticated initiative leveraging cutting-edge technologies in AI, machine learning, and simulation to develop highly advanced autonomous drone capabilities. Designed for complex environmental interactions and adaptive flight path management, it aims to push the boundaries of what autonomous drones can achieve in realistic and simulated settings.
 
 ## Features
 - **Real-Time Obstacle Detection**: Utilizes advanced sensors and AI to dynamically detect and avoid obstacles.
@@ -25,9 +25,9 @@ Ensure you have the following prerequisites installed:
 - AirSim or Gazebo
 
 Clone the repository:
-git clone https://github.com/hariprasanna/Advanced-Autonomous-Drone-Navigation-System.git
+git clone https://github.com/hariprasanna/Development-of-autonomous-aerial-surveillance-and-inspection-drones.git
 
-cd Advanced-Autonomous-Drone-Navigation-System
+cd Development-of-autonomous-aerial-surveillance-and-inspection-drones
 pip install -r requirements.txt
 
 ## Usage
@@ -51,9 +51,6 @@ Create your feature branch (git checkout -b feature/AmazingFeature).
 Commit your changes (git commit -m 'Add some AmazingFeature').
 Push to the branch (git push origin feature/AmazingFeature).
 Open a Pull Request.
-
-## Documentation
-For a detailed explanation of the project's architecture, development phases, and more, see the Advanced Autonomous Drone Navigation System [Documentation](docs/Advanced_Autonomous_Drone_Navigation_System_Documentation_v1.0.pdf) located in the docs folder.
 
 ## Acknowledgements
 AirSim and Unreal Engine for simulation capabilities.
